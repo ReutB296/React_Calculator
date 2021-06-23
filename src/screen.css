@@ -1,0 +1,12 @@
+
+.screen {
+    width: 95%;
+    height: 40px;
+    background: #2a363b;
+    grid-column-start: 1;
+    grid-column-end: span 4;
+    border-radius: 3px;
+    color: white;
+    padding:5px;
+    text-align: right;
+  }
